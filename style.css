@@ -1,0 +1,23 @@
+body{
+    background-image:url(ichigo.jpg);
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+#ui{
+    background-color:rgb(241, 150, 222) ;
+    padding: 30px;
+    margin-top: 50px;
+    border-radius: 25px;
+    opacity: 0.6;
+}
+
+.btn:hover{
+    background-color: blueviolet;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-left: 20%;
+}
