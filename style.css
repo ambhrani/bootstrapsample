@@ -18,6 +18,11 @@ body{
 
 h1{
     font-family: 'Courier New', Courier, monospace;
+    
+    padding: 2px;;
     font-weight: bold;
     margin-left: 20%;
+    width:fit-content;    
+    font-size: 3vw;
+   
 }
